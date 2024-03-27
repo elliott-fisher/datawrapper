@@ -1,4 +1,4 @@
-age_cat,COUNT,PERCENT
+"age_cat","Frequency Count","Percent of Total Frequency"
 Ages 65-100,96806,26.934623592
 Ages 27-64,184966,51.463644685
 Ages 18-26,28165,7.8364323852
