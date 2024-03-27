@@ -1,4 +1,4 @@
-"age_cat","Frequency Count","Percent of Total Frequency"
+age_cat,COUNT,PERCENT
 Ages 65-100,98547,26.945140157
 Ages 27-64,188065,51.421532707
 Ages 18-26,28659,7.8360657531

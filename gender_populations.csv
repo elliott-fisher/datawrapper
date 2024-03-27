@@ -1,5 +1,5 @@
-"Population","Female","Male","Unknown<sup>1</sup>","count_female","count_male","count_unknown"
-Duke Clinical Research,58.186869074,41.376745814,0.4363851126,212808,151328,1596
-"Durham County, NC",52.1,47.9,,,,
-North Carolina,51,49,,,,
-USA Overall,50.4,49.6,,,,
+"Population","Female","Male","Unknown<sup>1</sup>"
+Duke Clinical Research,58.186869074,41.376745814,0.4363851126
+"Durham County, NC",52.1,47.9,
+North Carolina,51,49,
+USA Overall,50.4,49.6,
