@@ -1,7 +1,7 @@
 age_cat,COUNT,PERCENT
-Ages 65-100,98547,26.945140157
-Ages 27-64,188065,51.421532707
-Ages 18-26,28659,7.8360657531
-Ages 5-17,23770,6.4992945654
-Under 5,22088,6.0393949668
-Unknown<sup>1</sup>,4603,1.2585718504
+<strong>Ages 65-100</strong>,98547,26.945140157
+<strong>Ages 27-64</strong>,188065,51.421532707
+<strong>Ages 18-26</strong>,28659,7.8360657531
+<strong>Ages 5-17</strong>,23770,6.4992945654
+<strong>Under 5</strong>,22088,6.0393949668
+<strong>Unknown<sup>1</sup></strong>,4603,1.2585718504
