@@ -1,5 +1,5 @@
-"Population","<strong>White</strong>","<strong>Black / African American</strong>","<strong>Asian</strong>","<strong>American Indian / Alaska Native</strong>","<strong>Native Hawaiian / Other Pacific Islander</strong>","<strong>2 or more races reported</strong>","<strong>Unknown<sup>1</sup></strong>"
-<strong>Duke Clinical Research</strong>,65.220981484,23.146456968,2.4403114849,0.6430938501,0.1197598241,1.306147671,7.1232487176
-"<strong>Durham County, NC</strong>",42.9,34.1,5.2,0.7,0,7.3,9.9
-<strong>North Carolina</strong>,62.2,20.5,3.3,1.2,0.1,6.8,5.9
-<strong>USA Overall</strong>,61.6,12.4,6,1.1,0.2,10.2,8.4
+"Population","<strong>Unknown<sup>1</sup></strong>","<strong>White</strong>","<strong>Black / African American</strong>","<strong>Asian</strong>","<strong>American Indian / Alaska Native</strong>","<strong>Native Hawaiian / Other Pacific Islander</strong>","<strong>Unknown<sup>1</sup></strong>"
+<strong>Duke Clinical Research</strong>,100,,,,,,
+"<strong>Durham County, NC</strong>",9.8653769783,42.862332337,34.051343306,5.1771217826,0.7034383822,0.0403284149,7.3000587994
+<strong>North Carolina</strong>,5.9140440033,62.15363391,20.501364639,3.2861217535,1.2455902587,0.0815948215,6.8176506132
+<strong>USA Overall</strong>,8.422318768,61.631533001,12.401354402,5.9997260938,1.1244963298,0.2081663891,10.212405017
